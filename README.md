@@ -148,10 +148,11 @@ A: Adjust the prompt template with more explicit headings or ask for more detail
 
 ---
 
-## Repository Placement
+## Contact
 
-- **Recommended:** Put this project in its own repository. It has distinct dependencies, a Gradio UI, and a clear single purpose (audio → minutes & tasks). This keeps your course repository lean and avoids dependency conflicts.
-- **Alternative:** If you must keep it in your course repo, place it in a dedicated subfolder (e.g., `projects/ai-meeting-assistant/`) with its own `README.md` and an isolated environment file (like `requirements.txt`) to prevent conflicts.
+👤 **Ali Abdallah**  
+📧 Email: aliabdalla2110@gmail.com  
+🔗 GitHub: [AliAbdallah21](https://github.com/AliAbdallah21)
 
 ---
 
